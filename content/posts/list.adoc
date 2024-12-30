@@ -1,0 +1,47 @@
++++
+title = "The List"
+date = 2024-12-28
+author = "tobias vejil"
++++
+= The List
+tobias vejil, 2024-12-28
+
+[source,poem]
+----
+Here is The List,
+    complete and unabridged.
+
+I've been building for days—
+    recording those moments,
+    when my thoughts aren't of you.
+
+All of those times
+    without visions
+    of our meeting.
+
+    The crystal clear ultra 8k cinematic scenes
+        of our first embrace.
+
+Life is so full
+    of things to do,
+    and sometimes…
+
+    I feel like I've done them all.
+
+So many ways
+    to fill the hours,
+    and yet—
+
+    Few rise to the top, these days.
+
+But I spent the time,
+    I did the work,
+    the list is complete,
+
+    And ready for your review:
+
+    * Surfing
+    * Programming
+
+    Thus ends The List.
+----

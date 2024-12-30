@@ -1,0 +1,58 @@
++++
+author = "tobias vejil"
+date = 2024-12-27
+title = "Mariposa"
++++
+= Mariposa
+tobias vejil, 2024-12-27
+
+[source,poem]
+----
+For once, the world felt small—
+    a cocoon spun from threads
+    of hesitation and fear.
+
+    The walls were safe, but walls all the same.
+
+Outside them no longer seemed worth the risk.
+
+Then came a gentle breeze—
+    unexpected,
+    soft,
+    but insistent.
+
+    A whisper of warmth,
+        carrying the scent of possibilities I had forgotten how to dream of.
+
+Slowly, the threads loosened.
+    Not with force,
+    not with demand,
+
+    but with the quiet presence of something…
+        someone who saw the wings I had long hidden away.
+
+With each word—
+    some typed,
+    many unspoken…
+
+    came another small crack of light,
+        a nudge towards the heights I thought I couldn’t again reach above.
+
+The sweet breeze—
+    open,
+    alive,
+
+    ripe with the hum of trust given and received.
+
+The courage to emerge didn’t come all at once,
+    but it came,
+    nonetheless.
+
+    Because transformation isn’t a single moment;
+        it’s a thousand tiny ones,
+        each led by the quiet,
+        steady presence—
+
+        Of a butterfly willing to flutter close…
+                                                and stay.
+----

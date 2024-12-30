@@ -1,0 +1,57 @@
++++
+author = "tobias vejil"
+title = "The Ding"
+date = "2024-12-28"
+category = "Lauren"
++++
+# The Ding
+tobias vejil, 2024-12-28
+
+[code,poetry]
+----
+Silence sits heavy—
+    not the quiet of peace,
+    but the pause of waiting.
+
+The world slows,
+    condensed to the glowing screen,
+    to the small, blinking icon
+
+    that promises connection just out of reach.
+
+A message sent…
+    now suspended in the void.
+
+Time stretches thin, each passing second a ripple of longing.
+
+Eyes linger,
+     wander,
+
+     then snap back with every faint vibration—
+          every imagined sound that isn’t… it.
+
+The ding is a small thing—
+    a note in the symphony of modern life.
+
+But here,
+    now,
+
+    it is the conductor of every breath held, every hope whispered.
+
+When it comes,
+    it isn’t loud.
+    It doesn’t need to be…
+
+    It’s a spark, a signal—
+        proof of presence,
+        of being seen,
+        of being heard.
+
+And for a moment, the world feels full.
+
+As if everything needed
+    to bridge the silence
+    was already in the sound
+
+    of that single ding.
+----

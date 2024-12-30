@@ -1,0 +1,65 @@
++++
+author = "tobias vejil"
+date = "2024-12-23"
+title = "Una Pregunta Más"
++++
+= Una Pregunta Más
+tobias vejil, 2024-12-23
+
+[source,poem]
+----
+January looms—
+    a page
+    not yet turned,
+
+    a promise not yet spoken aloud.
+
+A suitcase waits in the corner,
+    its empty belly
+    hungry for the scent
+
+    of someplace new—
+        some place near you
+
+Each passing day holds its breath.
+    Time stretches thin,
+
+    nights carry half-whispered dreams.
+
+Memories not yet born
+    tug softly
+    like the hem of an old coat—
+
+    familiar, but not quite known.
+
+The calendar marks the pace:
+    slow,
+    deliberate,
+    relentless.
+
+Each tick of the clock
+    a silent echo
+    of a question asked
+
+    but never fully answered.
+
+What waits—
+    on the other side of arrival?
+
+    A rhythm unplayed,
+    A melody of maybes.
+
+The air feels different now.
+
+Something stirs—
+    tender,
+    unspoken,
+
+    humming just beneath the surface.
+
+One more question,
+    one more step,
+    one more heartbeat—
+
+    before the journey begins.
+----

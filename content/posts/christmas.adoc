@@ -1,0 +1,64 @@
++++
+author = "tobias vejil"
+date   = 2024-12-25
+title = "Next Christmas"
++++
+= Next Christmas
+tobias vejil, 2024-12-25
+
+[source,poem]
+----
+This Christmas is warm—
+    a sunlit breeze through palm trees,
+    sand beneath bare feet,
+
+    and the distant sound of waves crashing in time with old carols.
+
+But next Christmas…
+    the air will be different.
+
+The glow—
+    not from fairy lights
+    but from a shared smile,
+
+    and the quiet promise of something…
+                                       lasting.
+
+The gifts won’t be wrapped in paper and ribbons.
+
+They’ll unfold in moments—
+    laughter drifting like music,
+    touches that linger,
+
+    unspoken words that need no translation.
+
+And next Christmas…
+
+There will be two plates set under the stars,
+    a toast raised
+    to beginnings,
+
+    to paths crossed, and to days ahead.
+
+The dog,
+    lying content at the edge of the terrace,
+    will watch the flicker of candles,
+
+    its tail wagging to the rhythm of joy made tangible.
+
+This Christmas is foreign,
+    and yet, familiar—
+
+    A season reimagined,
+    painted in colors of blue skies and bright sun.
+
+But next Christmas…
+
+Will be something more—
+    a meeting place
+    of here
+    and there,
+
+    of the now—
+    and the what’s to come.
+----
