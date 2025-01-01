@@ -1,0 +1,51 @@
++++
+title  = "Countdown"
+author = "tobias vejil"
+date   = "2024-12-31"
++++
+= Countdown
+tobias vejil, 2024-12-31
+
+[source,poem]
+----
+The last day of the year
+    has arrived,
+    and with it—
+
+    the inevitable countdown.
+
+The final hours of the year
+    tick away
+    in glitter and noise—
+
+    champagne bubbles rising,
+        the distant echo of fireworks,
+           and the familiar chant:
+               ten,
+               nine,
+               eight…
+
+But this countdown isn’t the one that matters.
+
+Each second pulls me
+    closer to January 15th,
+    the real beginning—
+
+    a moment not yet dressed in confetti nor cheers, but in quiet expectation.
+
+This countdown feels slower,
+    marked by calendar squares,
+    and the rhythm of days that stretch and blur.
+
+    Every sunrise whispers, “Almost,”
+    Every sunset echoes, “Soon.”
+
+Tonight, the world celebrates an arbitrary ending,
+
+But my heart beats in time with a different clock—
+    ticking,
+    tocking,
+
+    towards a meeting that feels like the start…
+                                                 of everything.
+----

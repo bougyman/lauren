@@ -1,0 +1,18 @@
++++
+title  = "Overloaded"
+author = "tobias vejil"
+date   = "2025-01-01"
++++
+= Overloaded
+tobias vejil, 2025-01-01
+
+[source,poem]
+----
+A picture arrives—
+    glasses,
+    sleepwear,
+
+    simplicity made sublime.
+
+Words vanish, thoughts scatter. Only wonder remains.
+----
