@@ -3,7 +3,6 @@ languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "terminal"
-paginate = 5
 
 [security]
   enableInlineShortcodes = false
@@ -73,6 +72,8 @@ paginate = 5
   # Example format, with date, time, and timezone abbreviation:
   # dateFormat = "2006-01-02 3:04:06 PM MST"
 
+[pagination]
+pagerSize = 2
 
 [params.twitter]
   # set Twitter handles for Twitter cards

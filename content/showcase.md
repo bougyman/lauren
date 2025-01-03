@@ -1,8 +1,49 @@
 +++
+title  = "Lost"
 author = "tobias vejil"
-title = "Showcase"
-date = "2024-12-30"
-description = "The current show"
+date   = "2025-01-02"
 +++
 
-# There is not yet a showcase
+```
+The hours stretch long—
+    a vast desert
+    of silence
+
+    where echoes of yesterday’s words fade into the wind.
+
+Perhaps she’s chasing the horizon,
+    steering a boat
+    through uncharted waters
+
+    where cell towers don’t dare to reach.
+
+Maybe the forest called her name,
+    and she answered—
+    a compass in hand,
+
+    and the wild in her heart.
+
+Or could it be a dragon?
+    Not the fiery kind,
+    but one of shadows and whimsy,
+
+    whisking her away to a castle that’s just slightly out of range.
+
+What if she’s cracked the code of time itself?
+    Traveling to eras unknown—
+        a Victorian ball,
+        a Martian sunrise—
+
+        her phone left behind, and me with it.
+
+More likely, though, it’s something smaller.
+
+A misplaced charger,
+    a busy afternoon,
+    life happening as it does,
+
+    leaving me to wonder how silence can feel so impossibly…
+                                                            loud.
+```
+
+p.s.: my email is in the about page
